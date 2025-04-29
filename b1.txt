@@ -2,4 +2,4 @@ hello
 
 smsmsmsm
 
-main is eded something
+main is added something
